@@ -800,7 +800,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .contact-info {
   margin-bottom: 4em;
-  padding: 0;
+  padding-top: 30px;
 }
 .contact-info li {
   list-style: none;
@@ -813,10 +813,10 @@ h1, h2, h3, h4, h5, h6, figure {
   top: .3em;
   left: 0;
   font-size: 22px;
-  color: #43B05C;
+  color: whitesmoke;
 }
 .contact-info li a {
-  color: #43B05C;
+  color: whitesmoke;
 }
 
 #map {

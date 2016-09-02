@@ -883,14 +883,14 @@ form {
 	}
 
 	.form-control {
-		background: rgba(255,255,255,.2);
-		color: $brand-white;
+		background: white;
+		color: black;
 		font-size: 16px!important;
 		width: 100%;
 		border: 2px solid transparent!important;
 		@include transition(.5s);
 		&:focus {
-			background: transparent;
+			background: whitesmoke;
 			border: 2px solid rgba(255,255,255,.8)!important;
 		}
 
@@ -1383,7 +1383,7 @@ form {
 // Form Input Field
 .form-control {
 	box-shadow: none;
-	background: transparent;
+	background: whitesmoke;
 	border: 2px solid rgba(0, 0, 0, 0.1);
 	height: 54px;
 	font-size: 18px;
